@@ -131,3 +131,4 @@ dist
 
 # Etc.
 .DS_store
+*.map
