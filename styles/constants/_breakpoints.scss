@@ -1,2 +1,5 @@
 $md-breakpoint: 768px;
 $lg-breakpoint: 1200px;
+
+$md-max: $md-breakpoint - 1px;
+$lg-max: $lg-breakpoint - 1px;
